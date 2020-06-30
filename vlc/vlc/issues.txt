@@ -1,0 +1,7 @@
+2020/06/19
+
+single thread cause delay problem
+
+double thread cause querry error at the 3rd try
+
+CAn I just draw or print on vlc stream? 
